@@ -6,7 +6,7 @@ export default function SEOContent() {
         <h2 className="text-3xl font-bold text-gray-800 mb-6">How Do You Play Pictionary?</h2>
         <div className="bg-white p-6 rounded-lg border border-gray-200">
           <p className="text-gray-700 mb-4">
-            Pictionary is a classic drawing and guessing game that's perfect for parties, family gatherings, and team-building activities. Here's how to play:
+            Pictionary is a classic drawing and guessing game that&apos;s perfect for parties, family gatherings, and team-building activities. Here&apos;s how to play:
           </p>
           <ol className="list-decimal list-inside space-y-2 text-gray-700">
             <li>Divide players into two or more teams</li>
@@ -82,7 +82,7 @@ export default function SEOContent() {
             <li><strong>20 Questions:</strong> Use our words as the secret word to guess</li>
           </ul>
           <p className="text-gray-700 mt-4">
-            Simply generate a word using our tool above and adapt it to whichever game you're playing!
+            Simply generate a word using our tool above and adapt it to whichever game you&apos;re playing!
           </p>
         </div>
       </section>
@@ -108,14 +108,14 @@ export default function SEOContent() {
           <div className="bg-white p-6 rounded-lg border border-gray-200">
             <h3 className="text-xl font-semibold text-gray-800 mb-3">How much time do you get in Pictionary?</h3>
             <p className="text-gray-700">
-              The standard time limit for Pictionary is 60-90 seconds per turn. Most official rules suggest 60 seconds, but many players prefer 90 seconds for more challenging words. You can adjust the time based on your group's preference and the difficulty of the words being used.
+              The standard time limit for Pictionary is 60-90 seconds per turn. Most official rules suggest 60 seconds, but many players prefer 90 seconds for more challenging words. You can adjust the time based on your group&apos;s preference and the difficulty of the words being used.
             </p>
           </div>
 
           <div className="bg-white p-6 rounded-lg border border-gray-200">
             <h3 className="text-xl font-semibold text-gray-800 mb-3">Can you play Pictionary without the game?</h3>
             <p className="text-gray-700">
-              Absolutely! You don't need the official Pictionary board game to play. All you need is paper, pencils, and words to draw - which is exactly what our word generator provides. You can create your own scoring system, use a timer on your phone, and have just as much fun as with the official game.
+              Absolutely! You don&apos;t need the official Pictionary board game to play. All you need is paper, pencils, and words to draw - which is exactly what our word generator provides. You can create your own scoring system, use a timer on your phone, and have just as much fun as with the official game.
             </p>
           </div>
         </div>
@@ -126,7 +126,7 @@ export default function SEOContent() {
         <div className="bg-blue-50 p-6 rounded-lg border border-blue-200">
           <h3 className="text-xl font-semibold text-blue-800 mb-3">Why Use Our Pictionary Word Generator?</h3>
           <p className="text-blue-700 mb-4">
-            Our free Pictionary word generator is designed to make your game nights more fun and spontaneous. With over 150 carefully selected words across three difficulty levels, you'll never run out of creative challenges.
+            Our free Pictionary word generator is designed to make your game nights more fun and spontaneous. With over 150 carefully selected words across three difficulty levels, you&apos;ll never run out of creative challenges.
           </p>
           <ul className="list-disc list-inside space-y-1 text-blue-700">
             <li>Instant word generation - no preparation needed</li>
