@@ -1,5 +1,6 @@
 import WordGenerator from '@/components/WordGenerator';
 import SEOContent from '@/components/SEOContent';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -22,6 +23,22 @@ export default function Home() {
 
         {/* SEO Content Section */}
         <SEOContent />
+
+        {/* Footer */}
+        <footer className="mt-16 pt-8 border-t border-gray-200">
+          <div className="text-center text-gray-600 text-sm">
+            <div className="mb-4">
+              <Link href="/about" className="hover:text-blue-600 transition-colors mr-6">
+                About
+              </Link>
+              <Link href="/privacy" className="hover:text-blue-600 transition-colors">
+                Privacy & Terms
+              </Link>
+            </div>
+            <p>© {new Date().getFullYear()} Pictionary Word Generator. All rights reserved.</p>
+            <p className="mt-2">Free word generator for Pictionary, Charades, and drawing games.</p>
+          </div>
+        </footer>
       </div>
     </main>
   );
